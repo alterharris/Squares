@@ -1,0 +1,15 @@
+.box{
+    width: 2em;
+    height: 2em;
+    background-color: black;
+    margin-bottom: .2em;
+    color: maroon;
+    font-size: 8em;
+    line-height: 2em;
+    text-align: center;
+}
+
+button{
+    display:block;
+    margin: 0 auto;
+}
